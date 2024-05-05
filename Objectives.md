@@ -1,0 +1,30 @@
+#Objective:
+The objective of automating the library operations in Belagavi is to enhance efficiency, 
+accuracy, and accessibility in managing library resources and member transactions. The 
+automation system aims to streamline tasks such as book/CD/DVD management, 
+member registration, and transaction tracking. It intends to provide an efficient search 
+mechanism for members and timely information for administrators. The automation 
+system also focuses on reducing manual efforts, minimizing errors, and improving the 
+overall library experience
+
+#Scope:
+The scope of the library automation system includes the implementation of features like 
+adding and managing books, CDs, and DVDs, member registration, and transaction 
+tracking. It encompasses functionalities such as searching for resources by various criteria, 
+checking out items, displaying due dates, managing returns, and calculating fines for 
+overdue items. The system aims to provide both members and administrators with userfriendly interfaces to carry out their respective tasks effectively. The scope also covers 
+generating reports for administrators to monitor library activities.
+User Requirements
+
+1.Library Administrators: 
+  ● Add books, CDs, and DVDs with details (name, author, category, copies available).
+  ● Register new members with personal information.
+  ● View and manage transactions (checkouts, returns) for monitoring library activities.
+  ● Generate reports on checked-out items, due dates, and fines.
+  
+2.Library Members: 
+  ● Search for resources by book/author/category combinations.
+  ● View availability of books, CDs, and DVDs.
+  ● Check out items and receive due dates.
+  ● View a list of checked-out items.
+  ● Return items on or before the due date to avoid fines
